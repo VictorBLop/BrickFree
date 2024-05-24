@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_Character.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameState.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameMode.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerState.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Input/IMC_DefaultContext.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Input/InputActions/IA_Shoot.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset",
+				"C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/Resources/Aim.uasset"
+			]
+		}
+	]
+}

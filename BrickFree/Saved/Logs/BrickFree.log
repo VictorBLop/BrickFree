@@ -1240,3 +1240,1383 @@ BUILD FAILED
 [2024.05.24-19.06.57:313][  2]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.24-19.06.57:399][  2]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.05.24-19.09.00:912][616]LogDerivedDataCache: C:/Users/victo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.131 and deleted 0 files with total size 0 MiB and 3 empty folders. Scanned 6703 files in 8661 folders with total size 648 MiB.
+[2024.05.24-19.30.06:717][778]LogSlate: Took 0.000883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.24-19.30.13:183][156]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.30.13:193][156]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.30.13:219][158]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.30.14:414][230]LogContentBrowser: Attempting asset rename: NewFolder -> Map
+[2024.05.24-19.30.14:414][230]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.30.17:503][398]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.05.24-19.30.17:509][398]LogContentBrowser: Creating deferred item: NewWorld
+[2024.05.24-19.30.17:537][400]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.05.24-19.30.24:606][824]LogContentBrowser: Attempting asset rename: NewWorld -> Blockout
+[2024.05.24-19.30.24:614][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.30.24:614][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.30.24:623][824]LogContentBrowser: End creating deferred item NewWorld
+[2024.05.24-19.30.25:491][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.30.25:603][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.24-19.30.25:610][875]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004830 seconds
+[2024.05.24-19.30.25:620][875]LogSavePackage: Moving output files for package: /Game/Map/Blockout
+[2024.05.24-19.30.25:620][875]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout32C1267442BF190C1D89FFBDBA76C3E2.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap'
+[2024.05.24-19.30.25:625][875]LogFileHelpers: Saving map 'Blockout' took 0.064
+[2024.05.24-19.30.25:634][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms
+[2024.05.24-19.30.25:636][875]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.30.25:636][875]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/Blockout.Blockout
+[2024.05.24-19.30.26:063][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.24-19.30.26:065][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Blockout.Blockout
+[2024.05.24-19.30.26:065][900]Cmd: MAP LOAD FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.24-19.30.26:065][900]LightingResults: New page: Lighting Build
+[2024.05.24-19.30.26:065][900]LoadErrors: New page: Loading map: Blockout.umap
+[2024.05.24-19.30.26:096][900]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.30.26:097][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.30.26:103][900]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.05.24-19.30.26:104][900]MapCheck: New page: Map Check
+[2024.05.24-19.30.26:104][900]LightingResults: New page: Lighting Build
+[2024.05.24-19.30.26:106][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-19.30.26:129][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.24-19.30.26:135][900]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.30.26:135][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.30.26:138][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.24-19.30.26:141][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.24-19.30.26:143][900]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blockout'.
+[2024.05.24-19.30.26:143][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.30.26:143][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.30.26:143][900]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.30.26:172][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.24-19.30.26:177][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.24-19.30.26:182][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.24-19.30.26:183][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2024.05.24-19.30.28:649][ 46]LogViewport: Scene viewport resized to 1606x486, mode Windowed.
+[2024.05.24-19.30.28:666][ 47]LogViewport: Scene viewport resized to 1606x490, mode Windowed.
+[2024.05.24-19.30.28:683][ 48]LogViewport: Scene viewport resized to 1606x497, mode Windowed.
+[2024.05.24-19.30.28:699][ 49]LogViewport: Scene viewport resized to 1606x508, mode Windowed.
+[2024.05.24-19.30.28:716][ 50]LogViewport: Scene viewport resized to 1606x523, mode Windowed.
+[2024.05.24-19.30.28:732][ 51]LogViewport: Scene viewport resized to 1606x540, mode Windowed.
+[2024.05.24-19.30.28:748][ 52]LogViewport: Scene viewport resized to 1606x552, mode Windowed.
+[2024.05.24-19.30.28:765][ 53]LogViewport: Scene viewport resized to 1606x564, mode Windowed.
+[2024.05.24-19.30.28:783][ 54]LogViewport: Scene viewport resized to 1606x577, mode Windowed.
+[2024.05.24-19.30.28:799][ 55]LogViewport: Scene viewport resized to 1606x588, mode Windowed.
+[2024.05.24-19.30.28:815][ 56]LogViewport: Scene viewport resized to 1606x593, mode Windowed.
+[2024.05.24-19.30.28:832][ 57]LogViewport: Scene viewport resized to 1606x601, mode Windowed.
+[2024.05.24-19.30.28:848][ 58]LogViewport: Scene viewport resized to 1606x607, mode Windowed.
+[2024.05.24-19.30.28:866][ 59]LogViewport: Scene viewport resized to 1606x610, mode Windowed.
+[2024.05.24-19.30.28:882][ 60]LogViewport: Scene viewport resized to 1606x612, mode Windowed.
+[2024.05.24-19.30.31:441][212]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.24-19.30.38:617][615]LogViewport: Scene viewport resized to 1602x612, mode Windowed.
+[2024.05.24-19.30.38:635][616]LogViewport: Scene viewport resized to 1583x612, mode Windowed.
+[2024.05.24-19.30.38:652][617]LogViewport: Scene viewport resized to 1539x612, mode Windowed.
+[2024.05.24-19.30.38:669][618]LogViewport: Scene viewport resized to 1471x612, mode Windowed.
+[2024.05.24-19.30.38:686][619]LogViewport: Scene viewport resized to 1389x612, mode Windowed.
+[2024.05.24-19.30.38:714][620]LogViewport: Scene viewport resized to 1248x612, mode Windowed.
+[2024.05.24-19.30.38:731][621]LogViewport: Scene viewport resized to 1175x612, mode Windowed.
+[2024.05.24-19.30.38:748][622]LogViewport: Scene viewport resized to 1114x612, mode Windowed.
+[2024.05.24-19.30.38:764][623]LogViewport: Scene viewport resized to 1064x612, mode Windowed.
+[2024.05.24-19.30.38:780][624]LogViewport: Scene viewport resized to 1026x612, mode Windowed.
+[2024.05.24-19.30.38:798][625]LogViewport: Scene viewport resized to 999x612, mode Windowed.
+[2024.05.24-19.30.38:814][626]LogViewport: Scene viewport resized to 981x612, mode Windowed.
+[2024.05.24-19.30.38:831][627]LogViewport: Scene viewport resized to 969x612, mode Windowed.
+[2024.05.24-19.30.38:847][628]LogViewport: Scene viewport resized to 959x612, mode Windowed.
+[2024.05.24-19.30.38:864][629]LogViewport: Scene viewport resized to 952x612, mode Windowed.
+[2024.05.24-19.30.38:881][630]LogViewport: Scene viewport resized to 946x612, mode Windowed.
+[2024.05.24-19.30.38:897][631]LogViewport: Scene viewport resized to 942x612, mode Windowed.
+[2024.05.24-19.30.38:914][632]LogViewport: Scene viewport resized to 939x612, mode Windowed.
+[2024.05.24-19.30.38:930][633]LogViewport: Scene viewport resized to 936x612, mode Windowed.
+[2024.05.24-19.30.39:584][672]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2024.05.24-19.30.39:988][693]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2024.05.24-19.30.40:353][713]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2024.05.24-19.30.40:766][737]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2024.05.24-19.30.41:107][757]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2024.05.24-19.30.42:976][868]LogViewport: Scene viewport resized to 938x612, mode Windowed.
+[2024.05.24-19.30.42:999][869]LogViewport: Scene viewport resized to 943x612, mode Windowed.
+[2024.05.24-19.30.43:010][870]LogViewport: Scene viewport resized to 951x612, mode Windowed.
+[2024.05.24-19.30.43:028][871]LogViewport: Scene viewport resized to 967x612, mode Windowed.
+[2024.05.24-19.30.43:044][872]LogViewport: Scene viewport resized to 994x612, mode Windowed.
+[2024.05.24-19.30.43:061][873]LogViewport: Scene viewport resized to 1030x612, mode Windowed.
+[2024.05.24-19.30.43:077][874]LogViewport: Scene viewport resized to 1066x612, mode Windowed.
+[2024.05.24-19.30.43:094][875]LogViewport: Scene viewport resized to 1107x612, mode Windowed.
+[2024.05.24-19.30.43:111][876]LogViewport: Scene viewport resized to 1148x612, mode Windowed.
+[2024.05.24-19.30.43:128][877]LogViewport: Scene viewport resized to 1189x612, mode Windowed.
+[2024.05.24-19.30.43:144][878]LogViewport: Scene viewport resized to 1227x612, mode Windowed.
+[2024.05.24-19.30.43:161][879]LogViewport: Scene viewport resized to 1259x612, mode Windowed.
+[2024.05.24-19.30.43:178][880]LogViewport: Scene viewport resized to 1289x612, mode Windowed.
+[2024.05.24-19.30.43:194][881]LogViewport: Scene viewport resized to 1314x612, mode Windowed.
+[2024.05.24-19.30.43:211][882]LogViewport: Scene viewport resized to 1331x612, mode Windowed.
+[2024.05.24-19.30.43:227][883]LogViewport: Scene viewport resized to 1343x612, mode Windowed.
+[2024.05.24-19.30.43:244][884]LogViewport: Scene viewport resized to 1348x612, mode Windowed.
+[2024.05.24-19.33.37:072][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.33.37:152][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.24-19.33.37:159][  8]LogSavePackage: Moving output files for package: /Game/Map/Blockout
+[2024.05.24-19.33.37:159][  8]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BlockoutDB62558B44D357C456688688C6F2FDB9.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap'
+[2024.05.24-19.33.37:167][  8]LogFileHelpers: Saving map 'Blockout' took 0.039
+[2024.05.24-19.33.37:171][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 242 ms)
+[2024.05.24-19.33.37:173][  8]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.33.37:173][  8]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/Blockout.Blockout
+[2024.05.24-19.33.42:952][333]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2024.05.24-19.33.43:020][333]LogViewport: Scene viewport resized to 819x612, mode Windowed.
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: ================================================
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Total job queries 264, among them cache hits 0 (0.00%)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: RAM used: 5.55 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Jobs assigned 66, completed 2 (3.03%)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.08 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.08 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 1.14
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Shader code size: average 3.666 KiB, min 3.324 KiB, max 4.008 KiB
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.14 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 6.00 jobs/batch
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Total thread time: 0.306 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Total thread preprocess time: 0.097 s
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Percentage time preprocessing: 31.62%
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Effective parallelization: 0.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    1 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 56.61% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 43.39% of total time (compiled    1 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2024.05.24-19.33.43:871][383]LogShaderCompilers: Display: ================================================
+[2024.05.24-19.34.05:543][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Map/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.CubeGridToolOutput_DBC7A2D3
+[2024.05.24-19.34.05:543][651]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_DBC7A2D3...
+[2024.05.24-19.34.05:544][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/Map/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.CubeGridToolOutput_DBC7A2D3 as actor: StaticMeshActor /Game/Map/Blockout.Blockout:PersistentLevel.StaticMeshActor_0
+[2024.05.24-19.34.05:549][651]LogStaticMesh: Built static mesh [0.01s] /Game/Map/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.CubeGridToolOutput_DBC7A2D3
+[2024.05.24-19.34.07:046][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.34.07:132][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.24-19.34.07:141][714]LogSavePackage: Moving output files for package: /Game/Map/Blockout
+[2024.05.24-19.34.07:142][714]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout93EBF3F842F99D4F1CF6A49EFA0A85FA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap'
+[2024.05.24-19.34.07:153][714]LogFileHelpers: Saving map 'Blockout' took 0.047
+[2024.05.24-19.34.07:158][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 355 ms)
+[2024.05.24-19.34.07:160][714]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.34.07:160][714]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/Blockout.Blockout
+[2024.05.24-19.34.08:806][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.24-19.34.15:800][232]LogViewport: Scene viewport resized to 822x612, mode Windowed.
+[2024.05.24-19.34.15:819][233]LogViewport: Scene viewport resized to 832x612, mode Windowed.
+[2024.05.24-19.34.15:836][234]LogViewport: Scene viewport resized to 843x612, mode Windowed.
+[2024.05.24-19.34.15:852][235]LogViewport: Scene viewport resized to 858x612, mode Windowed.
+[2024.05.24-19.34.15:869][236]LogViewport: Scene viewport resized to 876x612, mode Windowed.
+[2024.05.24-19.34.15:886][237]LogViewport: Scene viewport resized to 894x612, mode Windowed.
+[2024.05.24-19.34.15:902][238]LogViewport: Scene viewport resized to 913x612, mode Windowed.
+[2024.05.24-19.34.15:919][239]LogViewport: Scene viewport resized to 931x612, mode Windowed.
+[2024.05.24-19.34.15:936][240]LogViewport: Scene viewport resized to 947x612, mode Windowed.
+[2024.05.24-19.34.15:953][241]LogViewport: Scene viewport resized to 958x612, mode Windowed.
+[2024.05.24-19.34.15:969][242]LogViewport: Scene viewport resized to 968x612, mode Windowed.
+[2024.05.24-19.34.15:986][243]LogViewport: Scene viewport resized to 975x612, mode Windowed.
+[2024.05.24-19.34.16:002][244]LogViewport: Scene viewport resized to 985x612, mode Windowed.
+[2024.05.24-19.34.16:019][245]LogViewport: Scene viewport resized to 994x612, mode Windowed.
+[2024.05.24-19.34.16:036][246]LogViewport: Scene viewport resized to 1000x612, mode Windowed.
+[2024.05.24-19.34.16:052][247]LogViewport: Scene viewport resized to 1005x612, mode Windowed.
+[2024.05.24-19.34.16:069][248]LogViewport: Scene viewport resized to 1007x612, mode Windowed.
+[2024.05.24-19.34.16:217][257]LogViewport: Scene viewport resized to 1008x612, mode Windowed.
+[2024.05.24-19.34.16:234][258]LogViewport: Scene viewport resized to 1007x612, mode Windowed.
+[2024.05.24-19.34.16:252][259]LogViewport: Scene viewport resized to 1003x612, mode Windowed.
+[2024.05.24-19.34.16:268][260]LogViewport: Scene viewport resized to 999x612, mode Windowed.
+[2024.05.24-19.34.16:285][261]LogViewport: Scene viewport resized to 996x612, mode Windowed.
+[2024.05.24-19.34.16:301][262]LogViewport: Scene viewport resized to 993x612, mode Windowed.
+[2024.05.24-19.34.16:318][263]LogViewport: Scene viewport resized to 989x612, mode Windowed.
+[2024.05.24-19.34.16:334][264]LogViewport: Scene viewport resized to 987x612, mode Windowed.
+[2024.05.24-19.34.16:351][265]LogViewport: Scene viewport resized to 984x612, mode Windowed.
+[2024.05.24-19.34.16:368][266]LogViewport: Scene viewport resized to 982x612, mode Windowed.
+[2024.05.24-19.34.16:385][267]LogViewport: Scene viewport resized to 979x612, mode Windowed.
+[2024.05.24-19.34.16:402][268]LogViewport: Scene viewport resized to 978x612, mode Windowed.
+[2024.05.24-19.34.16:418][269]LogViewport: Scene viewport resized to 975x612, mode Windowed.
+[2024.05.24-19.34.16:450][271]LogViewport: Scene viewport resized to 974x612, mode Windowed.
+[2024.05.24-19.34.17:370][326]LogViewport: Scene viewport resized to 974x610, mode Windowed.
+[2024.05.24-19.34.17:389][327]LogViewport: Scene viewport resized to 974x595, mode Windowed.
+[2024.05.24-19.34.17:404][328]LogViewport: Scene viewport resized to 974x581, mode Windowed.
+[2024.05.24-19.34.17:423][329]LogViewport: Scene viewport resized to 974x568, mode Windowed.
+[2024.05.24-19.34.17:439][330]LogViewport: Scene viewport resized to 974x556, mode Windowed.
+[2024.05.24-19.34.17:456][331]LogViewport: Scene viewport resized to 974x549, mode Windowed.
+[2024.05.24-19.34.17:474][332]LogViewport: Scene viewport resized to 974x542, mode Windowed.
+[2024.05.24-19.34.17:490][333]LogViewport: Scene viewport resized to 974x537, mode Windowed.
+[2024.05.24-19.34.17:506][334]LogViewport: Scene viewport resized to 974x531, mode Windowed.
+[2024.05.24-19.34.17:523][335]LogViewport: Scene viewport resized to 974x526, mode Windowed.
+[2024.05.24-19.34.17:540][336]LogViewport: Scene viewport resized to 974x519, mode Windowed.
+[2024.05.24-19.34.17:556][337]LogViewport: Scene viewport resized to 974x514, mode Windowed.
+[2024.05.24-19.34.17:572][338]LogViewport: Scene viewport resized to 974x508, mode Windowed.
+[2024.05.24-19.34.17:589][339]LogViewport: Scene viewport resized to 974x498, mode Windowed.
+[2024.05.24-19.34.17:606][340]LogViewport: Scene viewport resized to 974x490, mode Windowed.
+[2024.05.24-19.34.17:622][341]LogViewport: Scene viewport resized to 974x482, mode Windowed.
+[2024.05.24-19.34.17:639][342]LogViewport: Scene viewport resized to 974x472, mode Windowed.
+[2024.05.24-19.34.17:656][343]LogViewport: Scene viewport resized to 974x464, mode Windowed.
+[2024.05.24-19.34.17:673][344]LogViewport: Scene viewport resized to 974x458, mode Windowed.
+[2024.05.24-19.34.17:689][345]LogViewport: Scene viewport resized to 974x453, mode Windowed.
+[2024.05.24-19.34.17:706][346]LogViewport: Scene viewport resized to 974x446, mode Windowed.
+[2024.05.24-19.34.17:722][347]LogViewport: Scene viewport resized to 974x438, mode Windowed.
+[2024.05.24-19.34.17:739][348]LogViewport: Scene viewport resized to 974x428, mode Windowed.
+[2024.05.24-19.34.17:755][349]LogViewport: Scene viewport resized to 974x417, mode Windowed.
+[2024.05.24-19.34.17:772][350]LogViewport: Scene viewport resized to 974x410, mode Windowed.
+[2024.05.24-19.34.17:788][351]LogViewport: Scene viewport resized to 974x404, mode Windowed.
+[2024.05.24-19.34.17:805][352]LogViewport: Scene viewport resized to 974x400, mode Windowed.
+[2024.05.24-19.34.17:822][353]LogViewport: Scene viewport resized to 974x398, mode Windowed.
+[2024.05.24-19.34.17:971][362]LogViewport: Scene viewport resized to 974x400, mode Windowed.
+[2024.05.24-19.34.17:989][363]LogViewport: Scene viewport resized to 974x402, mode Windowed.
+[2024.05.24-19.34.18:007][364]LogViewport: Scene viewport resized to 974x405, mode Windowed.
+[2024.05.24-19.34.18:023][365]LogViewport: Scene viewport resized to 974x409, mode Windowed.
+[2024.05.24-19.34.18:039][366]LogViewport: Scene viewport resized to 974x413, mode Windowed.
+[2024.05.24-19.34.18:056][367]LogViewport: Scene viewport resized to 974x417, mode Windowed.
+[2024.05.24-19.34.18:073][368]LogViewport: Scene viewport resized to 974x418, mode Windowed.
+[2024.05.24-19.34.18:090][369]LogViewport: Scene viewport resized to 974x421, mode Windowed.
+[2024.05.24-19.34.32:458][219]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.34.32:467][219]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.34.32:475][220]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.34.34:003][312]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.05.24-19.34.34:004][312]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.34.38:333][462]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.34.38:345][462]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.34.38:351][462]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.34.38:380][464]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.34.41:107][628]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerController
+[2024.05.24-19.34.41:146][628]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.34.42:478][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.34.42:549][708]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2024.05.24-19.34.42:549][708]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_PlayerController5DCBA8D246615CB9C152089BDB3DF490.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_PlayerController.uasset'
+[2024.05.24-19.34.42:558][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 435 ms)
+[2024.05.24-19.34.42:559][708]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.05.24-19.34.42:559][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController
+[2024.05.24-19.34.46:308][782]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.34.46:317][782]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.34.46:322][782]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.34.46:333][783]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.34.50:226][ 17]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Character
+[2024.05.24-19.34.50:233][ 17]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.34.50:782][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.34.50:854][ 50]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Character
+[2024.05.24-19.34.50:854][ 50]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_Character0AF8F37642BA172E1DE385A7AAAFBED4.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_Character.uasset'
+[2024.05.24-19.34.50:863][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 515 ms)
+[2024.05.24-19.34.50:864][ 50]AssetCheck: New page: Asset Save: BP_Character
+[2024.05.24-19.34.50:864][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Character.BP_Character
+[2024.05.24-19.34.54:141][116]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.34.54:148][116]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.34.54:154][116]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.34.54:162][117]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.34.55:024][169]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.05.24-19.34.55:030][169]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.34.55:933][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.24-19.34.56:893][223]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.24-19.34.56:914][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.24-19.34.56:918][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.24-19.34.56:921][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.05.24-19.34.59:007][281]LogSlate: Took 0.006483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.24-19.35.03:203][281]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.35.03:212][281]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.35.03:218][281]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.35.03:226][282]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.35.05:722][432]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameMode
+[2024.05.24-19.35.05:727][432]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.35.06:157][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.06:221][458]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode
+[2024.05.24-19.35.06:221][458]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_GameMode6CD4615845C27152BBAA2FB7291C6BCC.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_GameMode.uasset'
+[2024.05.24-19.35.06:229][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 587 ms)
+[2024.05.24-19.35.06:230][458]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.05.24-19.35.06:230][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2024.05.24-19.35.11:455][533]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.35.11:462][533]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.35.11:468][533]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.35.11:477][534]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.35.17:506][896]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BrickGameState
+[2024.05.24-19.35.17:511][896]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.35.18:791][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.18:855][973]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickGameState
+[2024.05.24-19.35.18:855][973]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickGameStateED109E4A4347FCC18B594E87BDFB105E.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameState.uasset'
+[2024.05.24-19.35.18:863][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 659 ms)
+[2024.05.24-19.35.18:864][973]AssetCheck: New page: Asset Save: BP_BrickGameState
+[2024.05.24-19.35.18:864][973]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickGameState.BP_BrickGameState
+[2024.05.24-19.35.20:443][ 66]LogContentBrowser: Attempting asset rename: BP_Character -> BP_Character
+[2024.05.24-19.35.23:326][239]LogContentBrowser: Attempting asset rename: BP_Character -> BP_BrickCharacter
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.SKEL_BP_BrickCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.SKEL_BP_BrickCharacter_C' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter_C' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:393][239]LogMetaData: Removing '/Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Character.PackageMetaData'
+[2024.05.24-19.35.23:396][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.23:464][239]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.35.23:464][239]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacter526807204522DC0577A922A7A1B8DDA5.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.35.23:472][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 736 ms)
+[2024.05.24-19.35.23:481][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.24-19.35.23:484][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.24-19.35.23:486][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.24-19.35.23:489][239]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.35.23:489][239]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.35.25:062][332]LogContentBrowser: Attempting asset rename: BP_GameMode -> BP_GameMode
+[2024.05.24-19.35.28:462][536]LogContentBrowser: Attempting asset rename: BP_GameMode -> BP_BrickGameMode
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.SKEL_BP_BrickGameMode_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.SKEL_BP_BrickGameMode_C' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode_C' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:479][536]LogMetaData: Removing '/Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_GameMode.PackageMetaData'
+[2024.05.24-19.35.28:480][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.28:540][536]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickGameMode
+[2024.05.24-19.35.28:540][536]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickGameMode2179B15A4ED271698DF9AE80342329D4.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameMode.uasset'
+[2024.05.24-19.35.28:548][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 805 ms)
+[2024.05.24-19.35.28:553][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.24-19.35.28:556][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.24-19.35.28:558][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.24-19.35.28:560][536]AssetCheck: New page: Asset Save: BP_BrickGameMode
+[2024.05.24-19.35.28:560][536]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode
+[2024.05.24-19.35.31:653][722]LogContentBrowser: Attempting asset rename: BP_PlayerController -> BP_BrickPlayerController
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.SKEL_BP_BrickPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.SKEL_BP_BrickPlayerController_C' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController_C' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogMetaData: Removing '/Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_PlayerController.PackageMetaData'
+[2024.05.24-19.35.31:671][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.31:738][722]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.35.31:738][722]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerA820707C497E4407A1E3F6A3E88393B2.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.35.31:747][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 880 ms)
+[2024.05.24-19.35.31:754][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.24-19.35.31:756][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.24-19.35.31:758][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.05.24-19.35.31:760][722]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.35.31:760][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.35.32:187][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.32:256][748]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.35.32:256][748]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController9ED4791646A0D66BAF45DCB2301390DA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.35.32:263][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 957 ms)
+[2024.05.24-19.35.32:264][748]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.35.32:264][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.35.33:271][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.33:334][809]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.35.33:335][809]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacterB39707C1469494254D2DA0871EADF81F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.35.33:340][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.02 sec)
+[2024.05.24-19.35.33:342][809]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.35.33:342][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.35.33:750][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.33:808][834]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickGameMode
+[2024.05.24-19.35.33:809][834]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickGameMode7BA7DF4344EA23E5B911FD8C5C5F1791.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameMode.uasset'
+[2024.05.24-19.35.33:815][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.09 sec)
+[2024.05.24-19.35.33:816][834]AssetCheck: New page: Asset Save: BP_BrickGameMode
+[2024.05.24-19.35.33:816][834]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode
+[2024.05.24-19.35.34:166][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.34:227][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickGameState
+[2024.05.24-19.35.34:228][855]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickGameStateC6F29E414E0B861034B255B1967776F9.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameState.uasset'
+[2024.05.24-19.35.34:234][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.16 sec)
+[2024.05.24-19.35.34:235][855]AssetCheck: New page: Asset Save: BP_BrickGameState
+[2024.05.24-19.35.34:236][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickGameState.BP_BrickGameState
+[2024.05.24-19.35.34:560][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.34:624][875]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.35.34:624][875]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerAEA653DF4B65AB6D9FF8B795D7A0C308.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.35.34:631][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.23 sec)
+[2024.05.24-19.35.34:632][875]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.35.34:632][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.35.43:388][144]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.24-19.35.43:399][144]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.24-19.35.43:404][144]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.24-19.35.43:413][145]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.24-19.35.46:524][332]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BrickPlayerState
+[2024.05.24-19.35.46:529][332]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.24-19.35.46:946][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.35.47:014][357]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerState
+[2024.05.24-19.35.47:014][357]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerState9272FB2A4537631F285D1885FF6F9954.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerState.uasset'
+[2024.05.24-19.35.47:021][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.30 sec)
+[2024.05.24-19.35.47:022][357]AssetCheck: New page: Asset Save: BP_BrickPlayerState
+[2024.05.24-19.35.47:022][357]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerState.BP_BrickPlayerState
+[2024.05.24-19.35.51:924][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode
+[2024.05.24-19.35.51:932][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.35.51:932][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.35.51:945][650]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.24-19.35.52:715][650]LogViewport: Scene viewport resized to 1085x682, mode Windowed.
+[2024.05.24-19.36.08:643][568]BlueprintLog: New page: Compile BP_BrickGameMode
+[2024.05.24-19.36.08:671][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.24-19.36.09:516][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.36.09:578][615]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickGameMode
+[2024.05.24-19.36.09:579][615]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickGameMode0C2EE0FE4CB9FAD1AFDB258C811FF2C5.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickGameMode.uasset'
+[2024.05.24-19.36.09:585][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.37 sec)
+[2024.05.24-19.36.09:587][615]AssetCheck: New page: Asset Save: BP_BrickGameMode
+[2024.05.24-19.36.09:587][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickGameMode.BP_BrickGameMode
+[2024.05.24-19.36.10:141][645]LogViewport: Scene viewport resized to 1081x706, mode Windowed.
+[2024.05.24-19.36.10:213][647]LogViewport: Scene viewport resized to 481x232, mode Windowed.
+[2024.05.24-19.36.10:238][648]LogViewport: Scene viewport resized to 441x201, mode Windowed.
+[2024.05.24-19.36.10:837][684]LogViewport: Scene viewport resized to 1085x682, mode Windowed.
+[2024.05.24-19.36.11:121][701]LogSlate: Window 'BP_BrickGameMode' being destroyed
+[2024.05.24-19.36.12:766][798]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyReport_1.log" -log="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyLog_1.log" -project="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject"  -Device=Win64@DESKTOP-B81QTOP'
+[2024.05.24-19.36.12:767][798]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyReport_1.log" -log="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyLog_1.log" -project="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject"  -Device=Win64@DESKTOP-B81QTOP" ]
+[2024.05.24-19.36.13:381][832]LogTurnkeySupport: Completed device detection: Code = 1
+[2024.05.24-19.36.13:382][833]LogTurnkeySupport: Warning: Turnkey failed to run properly, full Turnkey output:
+Running AutomationTool...
+Using bundled DotNet SDK version: 6.0.302
+Starting AutomationTool...
+Parsing command line: -ScriptsForProject="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyReport_1.log" -log="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Intermediate/TurnkeyLog_1.log" -project="C:/Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/BrickFree.uproject" -Device=Win64@DESKTOP-B81QTOP
+Initializing script modules...
+Unhandled exception: System.Exception: Script module "C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\AutomationTool\AutomationScripts\Platforms\Android\Android.Automation.dll" not found for record "C:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\ScriptModules\Android.Automation.json"
+   at UnrealBuildBase.CompileScriptModule.Build(RulesFileType RulesFileType, HashSet`1 FoundProjects, IEnumerable`1 BaseDirectories, IEnumerable`1 DefineConstants, BuildFlags BuildFlags, Boolean& bBuildSuccess, Action`1 OnBuildingProjects, ILogger Logger) in C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Build\System\CompileScriptModules.cs:line 350
+   at UnrealBuildBase.CompileScriptModule.InitializeScriptModules(RulesFileType RulesFileType, String ScriptsForProjectFileName, List`1 AdditionalScriptsFolders, Boolean bForceCompile, Boolean bNoCompile, Boolean bUseBuildRecords, Boolean& bBuildSuccess, Action`1 OnBuildingProjects, ILogger Logger) in C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\Shared\EpicGames.Build\System\CompileScriptModules.cs:line 196
+   at AutomationToolDriver.Program.MainProc() in C:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\AutomationTool\Program.cs:line 478
+AutomationTool executed for 0h 0m 0s
+AutomationTool exiting with ExitCode=1 (Error_Unknown)
+BUILD FAILED
+
+[2024.05.24-19.36.14:394][887]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.24-19.37.53:247][193]LogViewport: Scene viewport resized to 974x425, mode Windowed.
+[2024.05.24-19.37.53:265][194]LogViewport: Scene viewport resized to 974x434, mode Windowed.
+[2024.05.24-19.37.53:282][195]LogViewport: Scene viewport resized to 974x445, mode Windowed.
+[2024.05.24-19.37.53:300][196]LogViewport: Scene viewport resized to 974x457, mode Windowed.
+[2024.05.24-19.37.53:316][197]LogViewport: Scene viewport resized to 974x471, mode Windowed.
+[2024.05.24-19.37.53:333][198]LogViewport: Scene viewport resized to 974x489, mode Windowed.
+[2024.05.24-19.37.53:350][199]LogViewport: Scene viewport resized to 974x501, mode Windowed.
+[2024.05.24-19.37.53:366][200]LogViewport: Scene viewport resized to 974x510, mode Windowed.
+[2024.05.24-19.37.53:383][201]LogViewport: Scene viewport resized to 974x517, mode Windowed.
+[2024.05.24-19.37.53:399][202]LogViewport: Scene viewport resized to 974x524, mode Windowed.
+[2024.05.24-19.37.53:416][203]LogViewport: Scene viewport resized to 974x531, mode Windowed.
+[2024.05.24-19.37.53:433][204]LogViewport: Scene viewport resized to 974x538, mode Windowed.
+[2024.05.24-19.37.53:450][205]LogViewport: Scene viewport resized to 974x540, mode Windowed.
+[2024.05.24-19.37.53:466][206]LogViewport: Scene viewport resized to 974x542, mode Windowed.
+[2024.05.24-19.37.53:514][209]LogViewport: Scene viewport resized to 974x543, mode Windowed.
+[2024.05.24-19.37.53:531][210]LogViewport: Scene viewport resized to 974x544, mode Windowed.
+[2024.05.24-19.37.53:598][214]LogViewport: Scene viewport resized to 974x545, mode Windowed.
+[2024.05.24-19.37.53:684][219]LogViewport: Scene viewport resized to 974x548, mode Windowed.
+[2024.05.24-19.37.53:699][220]LogViewport: Scene viewport resized to 974x549, mode Windowed.
+[2024.05.24-19.37.53:716][221]LogViewport: Scene viewport resized to 974x551, mode Windowed.
+[2024.05.24-19.37.53:747][223]LogViewport: Scene viewport resized to 974x553, mode Windowed.
+[2024.05.24-19.37.53:781][225]LogViewport: Scene viewport resized to 974x556, mode Windowed.
+[2024.05.24-19.37.53:799][226]LogViewport: Scene viewport resized to 974x557, mode Windowed.
+[2024.05.24-19.37.53:831][228]LogViewport: Scene viewport resized to 974x560, mode Windowed.
+[2024.05.24-19.37.53:849][229]LogViewport: Scene viewport resized to 974x561, mode Windowed.
+[2024.05.24-19.37.53:866][230]LogViewport: Scene viewport resized to 974x563, mode Windowed.
+[2024.05.24-19.37.56:800][406]LogViewport: Scene viewport resized to 976x563, mode Windowed.
+[2024.05.24-19.37.56:819][407]LogViewport: Scene viewport resized to 981x563, mode Windowed.
+[2024.05.24-19.37.56:835][408]LogViewport: Scene viewport resized to 989x563, mode Windowed.
+[2024.05.24-19.37.56:852][409]LogViewport: Scene viewport resized to 1002x563, mode Windowed.
+[2024.05.24-19.37.56:869][410]LogViewport: Scene viewport resized to 1020x563, mode Windowed.
+[2024.05.24-19.37.56:884][411]LogViewport: Scene viewport resized to 1035x563, mode Windowed.
+[2024.05.24-19.37.56:901][412]LogViewport: Scene viewport resized to 1049x563, mode Windowed.
+[2024.05.24-19.37.56:918][413]LogViewport: Scene viewport resized to 1060x563, mode Windowed.
+[2024.05.24-19.37.56:936][414]LogViewport: Scene viewport resized to 1066x563, mode Windowed.
+[2024.05.24-19.37.56:951][415]LogViewport: Scene viewport resized to 1072x563, mode Windowed.
+[2024.05.24-19.37.56:969][416]LogViewport: Scene viewport resized to 1077x563, mode Windowed.
+[2024.05.24-19.37.56:985][417]LogViewport: Scene viewport resized to 1083x563, mode Windowed.
+[2024.05.24-19.37.57:002][418]LogViewport: Scene viewport resized to 1088x563, mode Windowed.
+[2024.05.24-19.37.57:019][419]LogViewport: Scene viewport resized to 1093x563, mode Windowed.
+[2024.05.24-19.37.57:035][420]LogViewport: Scene viewport resized to 1096x563, mode Windowed.
+[2024.05.24-19.37.57:052][421]LogViewport: Scene viewport resized to 1101x563, mode Windowed.
+[2024.05.24-19.37.57:069][422]LogViewport: Scene viewport resized to 1105x563, mode Windowed.
+[2024.05.24-19.37.57:085][423]LogViewport: Scene viewport resized to 1109x563, mode Windowed.
+[2024.05.24-19.37.57:102][424]LogViewport: Scene viewport resized to 1113x563, mode Windowed.
+[2024.05.24-19.37.57:118][425]LogViewport: Scene viewport resized to 1115x563, mode Windowed.
+[2024.05.24-19.37.57:135][426]LogViewport: Scene viewport resized to 1116x563, mode Windowed.
+[2024.05.24-19.37.57:167][428]LogViewport: Scene viewport resized to 1118x563, mode Windowed.
+[2024.05.24-19.37.57:185][429]LogViewport: Scene viewport resized to 1122x563, mode Windowed.
+[2024.05.24-19.37.57:202][430]LogViewport: Scene viewport resized to 1127x563, mode Windowed.
+[2024.05.24-19.37.57:219][431]LogViewport: Scene viewport resized to 1131x563, mode Windowed.
+[2024.05.24-19.37.57:235][432]LogViewport: Scene viewport resized to 1135x563, mode Windowed.
+[2024.05.24-19.37.57:252][433]LogViewport: Scene viewport resized to 1141x563, mode Windowed.
+[2024.05.24-19.37.57:268][434]LogViewport: Scene viewport resized to 1144x563, mode Windowed.
+[2024.05.24-19.37.57:285][435]LogViewport: Scene viewport resized to 1147x563, mode Windowed.
+[2024.05.24-19.37.57:302][436]LogViewport: Scene viewport resized to 1150x563, mode Windowed.
+[2024.05.24-19.37.57:319][437]LogViewport: Scene viewport resized to 1151x563, mode Windowed.
+[2024.05.24-19.37.57:335][438]LogViewport: Scene viewport resized to 1153x563, mode Windowed.
+[2024.05.24-19.37.57:352][439]LogViewport: Scene viewport resized to 1155x563, mode Windowed.
+[2024.05.24-19.37.57:383][441]LogViewport: Scene viewport resized to 1157x563, mode Windowed.
+[2024.05.24-19.37.57:401][442]LogViewport: Scene viewport resized to 1160x563, mode Windowed.
+[2024.05.24-19.37.57:418][443]LogViewport: Scene viewport resized to 1163x563, mode Windowed.
+[2024.05.24-19.37.57:435][444]LogViewport: Scene viewport resized to 1165x563, mode Windowed.
+[2024.05.24-19.37.57:452][445]LogViewport: Scene viewport resized to 1168x563, mode Windowed.
+[2024.05.24-19.37.57:468][446]LogViewport: Scene viewport resized to 1169x563, mode Windowed.
+[2024.05.24-19.37.57:485][447]LogViewport: Scene viewport resized to 1170x563, mode Windowed.
+[2024.05.24-19.37.57:501][448]LogViewport: Scene viewport resized to 1172x563, mode Windowed.
+[2024.05.24-19.37.57:518][449]LogViewport: Scene viewport resized to 1173x563, mode Windowed.
+[2024.05.24-19.37.59:626][573]LogViewport: Scene viewport resized to 1621x563, mode Windowed.
+[2024.05.24-19.38.04:656][872]LogViewport: Scene viewport resized to 1621x551, mode Windowed.
+[2024.05.24-19.38.04:674][873]LogViewport: Scene viewport resized to 1621x538, mode Windowed.
+[2024.05.24-19.38.04:694][874]LogViewport: Scene viewport resized to 1621x523, mode Windowed.
+[2024.05.24-19.38.04:711][875]LogViewport: Scene viewport resized to 1621x513, mode Windowed.
+[2024.05.24-19.38.04:728][876]LogViewport: Scene viewport resized to 1621x507, mode Windowed.
+[2024.05.24-19.38.04:748][877]LogViewport: Scene viewport resized to 1621x504, mode Windowed.
+[2024.05.24-19.38.04:781][879]LogViewport: Scene viewport resized to 1621x503, mode Windowed.
+[2024.05.24-19.38.04:830][882]LogViewport: Scene viewport resized to 1621x502, mode Windowed.
+[2024.05.24-19.38.04:864][884]LogViewport: Scene viewport resized to 1621x500, mode Windowed.
+[2024.05.24-19.38.15:138][322]LogSlate: Window 'Message' being destroyed
+[2024.05.24-19.38.15:164][322]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Blockout
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.05.24-19.38.15:199][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.38.15:292][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.24-19.38.15:299][322]LogSavePackage: Moving output files for package: /Game/Maps/Blockout
+[2024.05.24-19.38.15:299][322]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout9BC587334E7D0118B1C834A3F916372C.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap'
+[2024.05.24-19.38.15:307][322]LogFileHelpers: Saving map 'Blockout' took 0.052
+[2024.05.24-19.38.15:307][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Blockout" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap" SILENT=true
+[2024.05.24-19.38.15:310][322]LogSavePackage: Moving output files for package: /Game/Map/Blockout
+[2024.05.24-19.38.15:311][322]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout6822D73344A243FFE66AD89A1050AA23.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Map/Blockout.umap'
+[2024.05.24-19.38.15:313][322]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.38.15:360][322]LogSavePackage: Moving output files for package: /Game/Maps/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3
+[2024.05.24-19.38.15:360][322]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/CubeGridToolOutput_DBC7A2D38BB8B5D0431C062E8F941F92D35BE1AA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.uasset'
+[2024.05.24-19.38.15:373][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1.55 sec)
+[2024.05.24-19.38.15:385][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.24-19.38.15:395][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.24-19.38.15:404][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.24-19.38.15:411][322]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.24-19.38.15:411][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Blockout.Blockout
+[2024.05.24-19.38.15:411][322]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Map/Blockout.Blockout
+[2024.05.24-19.38.15:411][322]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Maps/_GENERATED/victor/CubeGridToolOutput_DBC7A2D3.CubeGridToolOutput_DBC7A2D3
+[2024.05.24-19.38.19:680][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.24-19.38.20:567][572]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.24-19.38.20:589][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.24-19.38.20:600][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.24-19.38.20:610][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.24-19.38.22:403][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.24-19.38.22:404][673]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Blockout.Blockout
+[2024.05.24-19.38.22:404][673]Cmd: MAP LOAD FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.24-19.38.22:404][673]LightingResults: New page: Lighting Build
+[2024.05.24-19.38.22:411][673]LoadErrors: New page: Loading map: Blockout.umap
+[2024.05.24-19.38.22:433][673]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.38.22:433][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.38.22:433][673]MapCheck: New page: Map Check
+[2024.05.24-19.38.22:433][673]LightingResults: New page: Lighting Build
+[2024.05.24-19.38.22:449][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-19.38.22:457][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.24-19.38.22:460][673]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blockout'.
+[2024.05.24-19.38.22:460][673]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.38.22:460][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.38.22:461][673]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.38.22:485][673]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.24-19.38.22:499][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.24-19.38.22:504][673]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.24-19.38.22:504][673]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2024.05.24-19.38.49:366][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.38.49:366][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.38.49:366][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.38.49:468][859]LogViewport: Scene viewport resized to 1085x682, mode Windowed.
+[2024.05.24-19.39.21:125][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.39.21:125][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.39.21:125][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.39.21:220][487]LogViewport: Scene viewport resized to 1085x682, mode Windowed.
+[2024.05.24-19.39.30:275][ 16]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.05.24-19.39.30:275][ 16]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.05.24-19.39.30:276][ 16]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/Blockout.Blockout:PersistentLevel.PlayerStart_0
+[2024.05.24-19.39.30:276][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.39.30:283][ 16]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/Blockout.Blockout:PersistentLevel.PlayerStart_0
+[2024.05.24-19.39.30:283][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.39.30:295][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.39.37:804][461]Cmd: CYCLENAVDRAWN
+[2024.05.24-19.39.41:867][607]LogSlate: Window 'New Level' being destroyed
+[2024.05.24-19.39.47:177][925]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.39.49:651][ 72]LogViewport: Scene viewport resized to 1618x500, mode Windowed.
+[2024.05.24-19.39.49:669][ 73]LogViewport: Scene viewport resized to 1608x500, mode Windowed.
+[2024.05.24-19.39.49:686][ 74]LogViewport: Scene viewport resized to 1586x500, mode Windowed.
+[2024.05.24-19.39.49:703][ 75]LogViewport: Scene viewport resized to 1549x500, mode Windowed.
+[2024.05.24-19.39.49:720][ 76]LogViewport: Scene viewport resized to 1497x500, mode Windowed.
+[2024.05.24-19.39.49:736][ 77]LogViewport: Scene viewport resized to 1433x500, mode Windowed.
+[2024.05.24-19.39.49:753][ 78]LogViewport: Scene viewport resized to 1371x500, mode Windowed.
+[2024.05.24-19.39.49:769][ 79]LogViewport: Scene viewport resized to 1317x500, mode Windowed.
+[2024.05.24-19.39.49:786][ 80]LogViewport: Scene viewport resized to 1277x500, mode Windowed.
+[2024.05.24-19.39.49:803][ 81]LogViewport: Scene viewport resized to 1255x500, mode Windowed.
+[2024.05.24-19.39.49:819][ 82]LogViewport: Scene viewport resized to 1242x500, mode Windowed.
+[2024.05.24-19.39.49:836][ 83]LogViewport: Scene viewport resized to 1234x500, mode Windowed.
+[2024.05.24-19.39.49:852][ 84]LogViewport: Scene viewport resized to 1229x500, mode Windowed.
+[2024.05.24-19.39.49:869][ 85]LogViewport: Scene viewport resized to 1228x500, mode Windowed.
+[2024.05.24-19.40.06:026][ 52]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.40.06:904][104]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.24-19.40.08:574][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.40.08:675][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.24-19.40.08:683][203]LogSavePackage: Moving output files for package: /Game/Maps/Blockout
+[2024.05.24-19.40.08:684][203]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BlockoutE75750EF4ECB48731C83C7B13D7FE9F0.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap'
+[2024.05.24-19.40.08:692][203]LogFileHelpers: Saving map 'Blockout' took 0.050
+[2024.05.24-19.40.08:697][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1.67 sec)
+[2024.05.24-19.40.08:698][203]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.40.08:698][203]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Blockout.Blockout
+[2024.05.24-19.40.11:730][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.40.11:745][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-19.40.11:747][385]PIE: New page: PIE session: Blockout (25 May 2024, 01:40:11)
+[2024.05.24-19.40.11:749][385]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2024.05.24-19.40.11:751][385]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.24-19.40.11:766][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.40.11:768][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002400s)
+[2024.05.24-19.40.11:768][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.002452s)
+[2024.05.24-19.40.11:776][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.24-19.40.11:778][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.40.11:779][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.40.11:779][386]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.40.11:780][386]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2024.05.24-19.40.11:781][386]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.40.11:781][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.40.11:781][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.40.11:781][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.40.11:781][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.40.11:781][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.40.11:783][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.40.11:829][386]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.40.11:829][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.40.11:829][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.40.11:829][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.40.11:831][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.24-19.40.11:831][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.24-19.40.11:833][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.24-19.40.11:833][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.24-19.40.11:833][386]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.24-19.40.11:833][386]LogAudio: Display: Audio Device (ID: 2) registered with world 'Blockout'.
+[2024.05.24-19.40.11:833][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.24-19.40.11:841][386]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.40.11:841][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.40.11
+[2024.05.24-19.40.11:842][386]LogWorld: Bringing up level for play took: 0.001185
+[2024.05.24-19.40.11:857][386]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.40.11:857][386]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.40.11:857][386]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.40.11:869][386]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.40.11:869][386]PIE: Server logged in
+[2024.05.24-19.40.11:870][386]PIE: Play in editor total start time 0.133 seconds.
+[2024.05.24-19.40.14:418][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.40.14:418][533]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.40.14:418][533]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.40.14:419][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.40.14:425][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.40.14:428][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.40.14:439][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.40.14:440][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.24-19.40.14:442][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.24-19.40.14:445][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.24-19.40.14:454][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.24-19.40.14:500][534]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.24-19.40.23:837][ 87]LogViewport: Scene viewport resized to 1080x682, mode Windowed.
+[2024.05.24-19.40.23:855][ 88]LogViewport: Scene viewport resized to 1071x682, mode Windowed.
+[2024.05.24-19.40.23:871][ 89]LogViewport: Scene viewport resized to 1052x682, mode Windowed.
+[2024.05.24-19.40.23:887][ 90]LogViewport: Scene viewport resized to 1020x682, mode Windowed.
+[2024.05.24-19.40.23:904][ 91]LogViewport: Scene viewport resized to 980x682, mode Windowed.
+[2024.05.24-19.40.23:920][ 92]LogViewport: Scene viewport resized to 938x682, mode Windowed.
+[2024.05.24-19.40.23:937][ 93]LogViewport: Scene viewport resized to 902x682, mode Windowed.
+[2024.05.24-19.40.23:954][ 94]LogViewport: Scene viewport resized to 875x682, mode Windowed.
+[2024.05.24-19.40.23:971][ 95]LogViewport: Scene viewport resized to 856x682, mode Windowed.
+[2024.05.24-19.40.23:988][ 96]LogViewport: Scene viewport resized to 847x682, mode Windowed.
+[2024.05.24-19.40.24:004][ 97]LogViewport: Scene viewport resized to 842x682, mode Windowed.
+[2024.05.24-19.40.24:021][ 98]LogViewport: Scene viewport resized to 838x682, mode Windowed.
+[2024.05.24-19.40.24:037][ 99]LogViewport: Scene viewport resized to 837x682, mode Windowed.
+[2024.05.24-19.40.24:137][105]LogViewport: Scene viewport resized to 835x682, mode Windowed.
+[2024.05.24-19.40.24:155][106]LogViewport: Scene viewport resized to 831x682, mode Windowed.
+[2024.05.24-19.40.24:171][107]LogViewport: Scene viewport resized to 825x682, mode Windowed.
+[2024.05.24-19.40.24:187][108]LogViewport: Scene viewport resized to 821x682, mode Windowed.
+[2024.05.24-19.40.24:204][109]LogViewport: Scene viewport resized to 820x682, mode Windowed.
+[2024.05.24-19.40.24:289][114]LogViewport: Scene viewport resized to 821x682, mode Windowed.
+[2024.05.24-19.40.24:305][115]LogViewport: Scene viewport resized to 829x682, mode Windowed.
+[2024.05.24-19.40.24:321][116]LogViewport: Scene viewport resized to 840x682, mode Windowed.
+[2024.05.24-19.40.24:337][117]LogViewport: Scene viewport resized to 855x682, mode Windowed.
+[2024.05.24-19.40.24:354][118]LogViewport: Scene viewport resized to 872x682, mode Windowed.
+[2024.05.24-19.40.24:371][119]LogViewport: Scene viewport resized to 887x682, mode Windowed.
+[2024.05.24-19.40.24:387][120]LogViewport: Scene viewport resized to 898x682, mode Windowed.
+[2024.05.24-19.40.24:409][121]LogViewport: Scene viewport resized to 907x682, mode Windowed.
+[2024.05.24-19.40.24:422][122]LogViewport: Scene viewport resized to 915x682, mode Windowed.
+[2024.05.24-19.40.24:438][123]LogViewport: Scene viewport resized to 922x682, mode Windowed.
+[2024.05.24-19.40.24:454][124]LogViewport: Scene viewport resized to 928x682, mode Windowed.
+[2024.05.24-19.40.24:471][125]LogViewport: Scene viewport resized to 936x682, mode Windowed.
+[2024.05.24-19.40.24:487][126]LogViewport: Scene viewport resized to 942x682, mode Windowed.
+[2024.05.24-19.40.24:504][127]LogViewport: Scene viewport resized to 946x682, mode Windowed.
+[2024.05.24-19.40.24:522][128]LogViewport: Scene viewport resized to 949x682, mode Windowed.
+[2024.05.24-19.40.24:537][129]LogViewport: Scene viewport resized to 950x682, mode Windowed.
+[2024.05.24-19.40.24:639][135]LogViewport: Scene viewport resized to 949x682, mode Windowed.
+[2024.05.24-19.40.24:655][136]LogViewport: Scene viewport resized to 943x682, mode Windowed.
+[2024.05.24-19.40.24:671][137]LogViewport: Scene viewport resized to 933x682, mode Windowed.
+[2024.05.24-19.40.24:687][138]LogViewport: Scene viewport resized to 925x682, mode Windowed.
+[2024.05.24-19.40.24:704][139]LogViewport: Scene viewport resized to 919x682, mode Windowed.
+[2024.05.24-19.40.24:720][140]LogViewport: Scene viewport resized to 912x682, mode Windowed.
+[2024.05.24-19.40.24:737][141]LogViewport: Scene viewport resized to 910x682, mode Windowed.
+[2024.05.24-19.40.24:770][143]LogViewport: Scene viewport resized to 909x682, mode Windowed.
+[2024.05.24-19.40.24:870][149]LogViewport: Scene viewport resized to 907x682, mode Windowed.
+[2024.05.24-19.40.24:889][150]LogViewport: Scene viewport resized to 905x682, mode Windowed.
+[2024.05.24-19.40.24:904][151]LogViewport: Scene viewport resized to 903x682, mode Windowed.
+[2024.05.24-19.40.24:955][154]LogViewport: Scene viewport resized to 901x682, mode Windowed.
+[2024.05.24-19.40.24:971][155]LogViewport: Scene viewport resized to 900x682, mode Windowed.
+[2024.05.24-19.40.24:988][156]LogViewport: Scene viewport resized to 898x682, mode Windowed.
+[2024.05.24-19.40.29:782][442]BlueprintLog: New page: Compile BP_BrickCharacter
+[2024.05.24-19.40.29:837][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.24-19.40.30:453][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.40.30:516][472]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.40.30:527][472]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacterC96AC186426AAF112EA5D48F2700E331.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.40.30:534][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.75 sec)
+[2024.05.24-19.40.30:535][472]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.40.30:535][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.40.37:864][912]LogSlate: Took 0.001248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.24-19.40.51:402][683]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-19.40.51:425][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.24-19.40.52:031][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.40.52:115][719]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.40.52:117][719]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController6C5A839146D338DF5C8870924B57782E.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.40.52:123][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.84 sec)
+[2024.05.24-19.40.52:124][719]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.40.52:125][719]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.40.53:725][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.40.53:732][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-19.40.53:732][815]PIE: New page: PIE session: Blockout (25 May 2024, 01:40:53)
+[2024.05.24-19.40.53:732][815]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2024.05.24-19.40.53:733][815]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.05.24-19.40.53:741][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.40.53:742][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001063s)
+[2024.05.24-19.40.53:742][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.001096s)
+[2024.05.24-19.40.53:754][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.24-19.40.53:755][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.40.53:755][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.40.53:755][816]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.40.53:755][816]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2024.05.24-19.40.53:755][816]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.40.53:756][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.40.53:756][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.40.53:756][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.40.53:756][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.40.53:756][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.40.53:758][816]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.40.53:800][816]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.40.53:801][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.40.53:801][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.40.53:801][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.40.53:802][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.24-19.40.53:802][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.24-19.40.53:803][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.24-19.40.53:803][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.24-19.40.53:803][816]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.24-19.40.53:803][816]LogAudio: Display: Audio Device (ID: 3) registered with world 'Blockout'.
+[2024.05.24-19.40.53:803][816]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.24-19.40.53:805][816]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.40.53:806][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.40.53
+[2024.05.24-19.40.53:806][816]LogWorld: Bringing up level for play took: 0.000506
+[2024.05.24-19.40.53:806][816]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.40.53:806][816]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.40.53:806][816]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.40.53:809][816]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2024.05.24-19.40.53:809][816]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.40.53:809][816]PIE: Server logged in
+[2024.05.24-19.40.53:810][816]PIE: Play in editor total start time 0.079 seconds.
+[2024.05.24-19.40.58:204][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.40.58:204][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.40.58:204][ 20]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.40.58:204][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.40.58:207][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.40.58:210][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.40.58:220][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-19.40.58:220][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.24-19.40.58:220][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.24-19.40.58:222][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.24-19.40.58:227][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.40.58:229][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.24-19.40.58:362][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.05.24-19.41.00:280][126]LogSlate: Window 'Message Log' being destroyed
+[2024.05.24-19.41.00:288][126]LogSlate: Window 'Message Log' being destroyed
+[2024.05.24-19.41.06:527][479]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-19.41.06:543][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.24-19.41.06:952][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.41.07:040][503]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.41.07:041][503]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerC3A7CE96494B2E0CB88C2DAAAF31818F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.41.07:048][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.94 sec)
+[2024.05.24-19.41.07:049][503]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.41.07:049][503]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.41.08:461][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.41.08:468][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-19.41.08:468][588]PIE: New page: PIE session: Blockout (25 May 2024, 01:41:08)
+[2024.05.24-19.41.08:468][588]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2024.05.24-19.41.08:470][588]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.05.24-19.41.08:478][589]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.41.08:479][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001132s)
+[2024.05.24-19.41.08:479][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.001177s)
+[2024.05.24-19.41.08:491][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.24-19.41.08:493][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.41.08:493][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.41.08:493][589]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.41.08:493][589]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2024.05.24-19.41.08:493][589]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.41.08:493][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.41.08:494][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.41.08:494][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.41.08:494][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.41.08:494][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.41.08:496][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.41.08:537][589]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.41.08:537][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.41.08:537][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.41.08:537][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.41.08:538][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.24-19.41.08:538][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.24-19.41.08:540][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.24-19.41.08:540][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.24-19.41.08:540][589]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.24-19.41.08:540][589]LogAudio: Display: Audio Device (ID: 4) registered with world 'Blockout'.
+[2024.05.24-19.41.08:540][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.24-19.41.08:543][589]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.41.08:543][589]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.41.08
+[2024.05.24-19.41.08:543][589]LogWorld: Bringing up level for play took: 0.000492
+[2024.05.24-19.41.08:544][589]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.41.08:544][589]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.41.08:544][589]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.41.08:544][589]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-19.41.08:544][589]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.05.24-19.41.08:544][589]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.05.24-19.41.08:545][589]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.41.08:545][589]PIE: Server logged in
+[2024.05.24-19.41.08:545][589]PIE: Play in editor total start time 0.077 seconds.
+[2024.05.24-19.41.11:764][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.41.11:764][779]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.41.11:764][779]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.41.11:764][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.41.11:766][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.41.11:769][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.41.11:776][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.41.11:776][779]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.24-19.41.11:776][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.24-19.41.11:778][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.24-19.41.11:785][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.24-19.41.11:834][781]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.05.24-19.41.14:396][931]LogSlate: Window 'Message Log' being destroyed
+[2024.05.24-19.41.14:404][931]LogSlate: Window 'Message Log' being destroyed
+[2024.05.24-19.41.25:101][553]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-19.41.25:116][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.24-19.41.25:526][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.41.25:597][576]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-19.41.25:599][576]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerB5C3EC384A0D26D5C1AA27905646C9F4.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-19.41.25:605][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.02 sec)
+[2024.05.24-19.41.25:606][576]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-19.41.25:606][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-19.41.37:522][267]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.41.37:532][267]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.41.37:542][268]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.41.39:432][381]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.05.24-19.41.39:433][381]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.41.42:788][576]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.05.24-19.41.44:436][668]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.05.24-19.41.44:444][668]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.05.24-19.41.44:472][670]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.05.24-19.41.47:584][857]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_DefaultContext
+[2024.05.24-19.41.47:591][857]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.05.24-19.41.48:122][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.41.48:193][889]LogSavePackage: Moving output files for package: /Game/Input/IMC_DefaultContext
+[2024.05.24-19.41.48:193][889]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/IMC_DefaultContext139E1F8D48DE678D2EB0D5BD9E1CA7EF.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Input/IMC_DefaultContext.uasset'
+[2024.05.24-19.41.48:201][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.10 sec)
+[2024.05.24-19.41.48:202][889]AssetCheck: New page: Asset Save: IMC_DefaultContext
+[2024.05.24-19.41.48:202][889]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_DefaultContext.IMC_DefaultContext
+[2024.05.24-19.41.50:335][  5]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.41.50:343][  5]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.41.50:353][  6]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.41.52:498][135]LogContentBrowser: Attempting asset rename: NewFolder -> InputActions
+[2024.05.24-19.41.52:504][135]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.41.53:183][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.41.53:283][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.24-19.41.53:291][176]LogSavePackage: Moving output files for package: /Game/Maps/Blockout
+[2024.05.24-19.41.53:292][176]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout53B27DCF4C672DB1BD001FBCAB051AD0.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap'
+[2024.05.24-19.41.53:300][176]LogFileHelpers: Saving map 'Blockout' took 0.056
+[2024.05.24-19.41.53:305][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.22 sec)
+[2024.05.24-19.41.53:306][176]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.41.53:307][176]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Blockout.Blockout
+[2024.05.24-19.41.57:653][411]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.05.24-19.41.57:662][411]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.05.24-19.41.57:690][413]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.05.24-19.42.02:202][684]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Shoot
+[2024.05.24-19.42.02:202][684]LogContentBrowser: End creating deferred item NewInputAction
+[2024.05.24-19.42.02:687][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.42.02:753][713]LogSavePackage: Moving output files for package: /Game/Input/InputActions/IA_Shoot
+[2024.05.24-19.42.02:753][713]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/IA_Shoot5CC2F3C14E6DBF2590FD9185913607F5.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Input/InputActions/IA_Shoot.uasset'
+[2024.05.24-19.42.02:760][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.29 sec)
+[2024.05.24-19.42.02:761][713]AssetCheck: New page: Asset Save: IA_Shoot
+[2024.05.24-19.42.02:761][713]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/InputActions/IA_Shoot.IA_Shoot
+[2024.05.24-19.42.04:854][838]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_DefaultContext.IMC_DefaultContext
+[2024.05.24-19.42.10:886][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.42.10:949][194]LogSavePackage: Moving output files for package: /Game/Input/IMC_DefaultContext
+[2024.05.24-19.42.10:950][194]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/IMC_DefaultContextD9EB63734E2C100AC36058BFF66450AA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Input/IMC_DefaultContext.uasset'
+[2024.05.24-19.42.10:957][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.36 sec)
+[2024.05.24-19.42.10:958][194]AssetCheck: New page: Asset Save: IMC_DefaultContext
+[2024.05.24-19.42.10:958][194]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_DefaultContext.IMC_DefaultContext
+[2024.05.24-19.42.30:883][357]BlueprintLog: New page: Compile BP_BrickCharacter
+[2024.05.24-19.42.30:954][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.24-19.42.31:466][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.42.31:537][380]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.42.31:539][380]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacter71652B2A441418D0FAD724A6453D2451.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.42.31:546][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.44 sec)
+[2024.05.24-19.42.31:546][380]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.42.31:546][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.43.21:022][329]BlueprintLog: New page: Compile BP_BrickCharacter
+[2024.05.24-19.43.21:081][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.24-19.43.21:596][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.43.21:659][353]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.43.21:660][353]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacterDA3974124078D128BED9F3820BDAC044.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.43.21:667][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.51 sec)
+[2024.05.24-19.43.21:668][353]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.43.21:668][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.44.30:610][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.44.30:695][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.44.30:697][ 17]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacterCB6DA83F437DE4D4FFB4ED936D1FC16D.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.44.30:703][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.61 sec)
+[2024.05.24-19.44.30:705][ 17]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.44.30:705][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.45.57:561][980]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.45.57:571][980]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.45.57:581][981]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.45.58:775][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.05.24-19.45.58:776][ 53]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.46.05:780][350]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.24-19.46.05:792][350]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.24-19.46.05:802][350]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.24-19.46.05:832][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.24-19.46.10:144][611]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_AIm
+[2024.05.24-19.46.10:159][611]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.24-19.46.13:666][821]LogContentBrowser: Attempting asset rename: WB_AIm -> WB_Aim
+[2024.05.24-19.46.13:684][821]LogMetaData: Removing '/Game/UI/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/UI/WB_AIm.PackageMetaData'
+[2024.05.24-19.46.13:684][821]LogMetaData: Removing '/Game/UI/RenameTmp.RenameTmp_C' ref from Metadata '/Game/UI/WB_AIm.PackageMetaData'
+[2024.05.24-19.46.13:684][821]LogMetaData: Removing '/Game/UI/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WB_AIm.PackageMetaData'
+[2024.05.24-19.46.13:684][821]LogMetaData: Removing '/Game/UI/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WB_AIm.PackageMetaData'
+[2024.05.24-19.46.13:684][821]LogMetaData: Removing '/Game/UI/RenameTmp.RenameTmp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WB_AIm.PackageMetaData'
+[2024.05.24-19.46.13:702][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.24-19.46.13:711][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.24-19.46.13:722][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.24-19.46.13:723][821]LogMetaData: Removing '/Game/UI/WB_Aim.WB_Aim_C' ref from Metadata '/Game/UI/RenameTmp.PackageMetaData'
+[2024.05.24-19.46.13:723][821]LogMetaData: Removing '/Game/UI/WB_Aim.SKEL_WB_Aim_C' ref from Metadata '/Game/UI/RenameTmp.PackageMetaData'
+[2024.05.24-19.46.13:723][821]LogMetaData: Removing '/Game/UI/WB_Aim.WB_Aim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/RenameTmp.PackageMetaData'
+[2024.05.24-19.46.13:723][821]LogMetaData: Removing '/Game/UI/WB_Aim.WB_Aim:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/RenameTmp.PackageMetaData'
+[2024.05.24-19.46.13:723][821]LogMetaData: Removing '/Game/UI/WB_Aim.WB_Aim:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/RenameTmp.PackageMetaData'
+[2024.05.24-19.46.13:735][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.24-19.46.13:743][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.24-19.46.13:750][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.24-19.46.14:249][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.46.14:314][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.46.14:318][851]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.46.14:318][851]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_AimFA1D50D54C4B5B33CAA609B89C6544AA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.46.14:327][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.68 sec)
+[2024.05.24-19.46.14:327][851]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.46.14:327][851]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.46.35:048][ 45]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.46.35:050][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.46.35:050][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.46.35:057][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.46.35:057][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.46.35:063][ 45]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.24-19.46.35:340][ 45]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.24-19.46.35:341][ 45]LogSlate: Took 0.000662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.24-19.46.43:709][532]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.24-19.46.43:722][532]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.24-19.46.43:731][533]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.24-19.46.47:508][760]LogContentBrowser: Attempting asset rename: NewFolder -> Resources
+[2024.05.24-19.46.47:510][760]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.24-19.46.48:126][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.46.48:233][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.24-19.46.48:240][797]LogSavePackage: Moving output files for package: /Game/Maps/Blockout
+[2024.05.24-19.46.48:241][797]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Blockout2A3163BA4ED5644732518F92E014C21F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Maps/Blockout.umap'
+[2024.05.24-19.46.48:249][797]LogFileHelpers: Saving map 'Blockout' took 0.054
+[2024.05.24-19.46.48:254][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.81 sec)
+[2024.05.24-19.46.48:255][797]AssetCheck: New page: Asset Save: Blockout
+[2024.05.24-19.46.48:255][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Blockout.Blockout
+[2024.05.24-19.46.56:349][974]LogInterchangeEngine: [Pending] Importing
+[2024.05.24-19.46.56:349][974]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/victo/Downloads/Aim.png]
+[2024.05.24-19.46.56:358][974]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.24-19.46.56:374][975]LogTexture: Display: Building textures: /Game/UI/Resources/Aim.Aim (BGRA8, 289x289 x1x1x1) (Required Memory Estimate: 2.50515 MB), EncodeSpeed: Fast
+[2024.05.24-19.46.56:403][975]LogInterchangeEngine: [Success] Import Done
+[2024.05.24-19.46.56:407][975]LogInterchangeEngine: [Success] Import Done
+[2024.05.24-19.46.56:454][976]LogInterchangeEngine: [Success] Import Done
+[2024.05.24-19.46.57:961][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.46.58:044][ 47]LogSavePackage: Moving output files for package: /Game/UI/Resources/Aim
+[2024.05.24-19.46.58:044][ 47]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/AimFF7B3E874549EC9DDB81D9B11B355494.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/Resources/Aim.uasset'
+[2024.05.24-19.46.58:053][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.90 sec)
+[2024.05.24-19.46.58:054][ 47]AssetCheck: New page: Asset Save: Aim
+[2024.05.24-19.46.58:054][ 47]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/Resources/Aim.Aim
+[2024.05.24-19.46.58:532][ 76]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Resources/Aim.Aim
+[2024.05.24-19.46.58:637][ 76]LogViewport: Scene viewport resized to 1419x853, mode Windowed.
+[2024.05.24-19.47.06:473][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.47.06:559][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.47.06:564][541]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.47.06:565][541]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_Aim5817FA284784FD53BC74BFA00923D69B.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.47.06:572][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.00 sec)
+[2024.05.24-19.47.06:573][541]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.47.06:573][541]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.47.07:045][570]BlueprintLog: New page: Compile WB_Aim
+[2024.05.24-19.47.07:069][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.24-19.47.25:225][644]BlueprintLog: New page: Compile WB_Aim
+[2024.05.24-19.47.25:237][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.24-19.47.25:904][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.47.25:983][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.47.25:988][678]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.47.25:989][678]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_AimD00A072747369DF4450D98AE47CEB13C.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.47.25:996][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.09 sec)
+[2024.05.24-19.47.25:997][678]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.47.25:997][678]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.47.36:889][332]BlueprintLog: New page: Compile WB_Aim
+[2024.05.24-19.47.36:908][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.24-19.47.37:798][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.47.37:887][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.47.37:893][379]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.47.37:894][379]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_Aim8555BE64443BA1C0360968B321221E07.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.47.37:900][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.20 sec)
+[2024.05.24-19.47.37:901][379]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.47.37:901][379]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.48.40:827][172]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.24-19.49.25:613][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.49.25:621][568]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.24-19.49.25:622][568]LogPlayLevel: [PlayLevel] Compiling BP_BrickCharacter before play...
+[2024.05.24-19.49.25:644][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.24-19.49.25:647][568]LogPlayLevel: PlayLevel: Blueprint regeneration took 24 ms (1 blueprints)
+[2024.05.24-19.49.25:647][568]PIE: New page: PIE session: Blockout (25 May 2024, 01:49:25)
+[2024.05.24-19.49.25:647][568]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2024.05.24-19.49.25:649][568]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.05.24-19.49.25:656][569]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.25:657][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001108s)
+[2024.05.24-19.49.25:658][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.001142s)
+[2024.05.24-19.49.25:667][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.24-19.49.25:667][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.49.25:668][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.49.25:668][569]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.49.25:668][569]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2024.05.24-19.49.25:668][569]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.49.25:668][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.49.25:668][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.49.25:669][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.49.25:669][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.49.25:669][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.49.25:670][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.49.25:715][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.49.25:715][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.49.25:715][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.49.25:715][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.49.25:717][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.24-19.49.25:717][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.24-19.49.25:718][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.24-19.49.25:718][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.24-19.49.25:718][569]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.24-19.49.25:718][569]LogAudio: Display: Audio Device (ID: 5) registered with world 'Blockout'.
+[2024.05.24-19.49.25:718][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.24-19.49.25:720][569]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.49.25:721][569]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.49.25
+[2024.05.24-19.49.25:721][569]LogWorld: Bringing up level for play took: 0.000524
+[2024.05.24-19.49.25:721][569]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.25:721][569]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.25:721][569]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.25:722][569]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-19.49.25:722][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-19.49.25:722][569]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.25:722][569]PIE: Server logged in
+[2024.05.24-19.49.25:723][569]PIE: Play in editor total start time 0.101 seconds.
+[2024.05.24-19.49.29:923][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.29:924][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.29:924][818]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.49.29:924][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.29:927][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.49.29:930][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.29:942][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.29:942][818]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.24-19.49.29:942][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.24-19.49.29:944][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.24-19.49.29:951][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.24-19.49.29:996][819]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.05.24-19.49.30:728][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.49.30:736][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-19.49.30:736][862]PIE: New page: PIE session: Blockout (25 May 2024, 01:49:30)
+[2024.05.24-19.49.30:736][862]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2024.05.24-19.49.30:738][862]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.05.24-19.49.30:745][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.30:746][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001034s)
+[2024.05.24-19.49.30:746][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.001065s)
+[2024.05.24-19.49.30:759][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.24-19.49.30:761][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.49.30:761][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.49.30:761][863]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.49.30:761][863]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2024.05.24-19.49.30:761][863]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.49.30:761][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.49.30:761][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.49.30:762][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.49.30:762][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.49.30:762][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.49.30:763][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.49.30:805][863]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.49.30:805][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.49.30:805][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.49.30:805][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.49.30:805][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.24-19.49.30:805][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.24-19.49.30:807][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.24-19.49.30:807][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.24-19.49.30:807][863]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.24-19.49.30:807][863]LogAudio: Display: Audio Device (ID: 6) registered with world 'Blockout'.
+[2024.05.24-19.49.30:808][863]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.24-19.49.30:810][863]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.49.30:810][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.49.30
+[2024.05.24-19.49.30:810][863]LogWorld: Bringing up level for play took: 0.000516
+[2024.05.24-19.49.30:811][863]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.30:811][863]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.30:811][863]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.30:811][863]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-19.49.30:811][863]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-19.49.30:811][863]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.30:811][863]PIE: Server logged in
+[2024.05.24-19.49.30:812][863]PIE: Play in editor total start time 0.076 seconds.
+[2024.05.24-19.49.43:884][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.43:884][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.43:884][645]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.49.43:884][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.43:886][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.49.43:889][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.43:898][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.43:898][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.24-19.49.43:898][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.24-19.49.43:900][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.24-19.49.43:906][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.24-19.49.43:970][648]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.05.24-19.49.49:126][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.49.49:201][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.49.49:206][957]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.49.49:208][957]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_Aim3EC285854BF0D1CC002436BC95968FFA.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.49.49:218][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.29 sec)
+[2024.05.24-19.49.49:219][957]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.49.49:219][957]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.49.50:044][  7]BlueprintLog: New page: Compile WB_Aim
+[2024.05.24-19.49.50:070][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.24-19.49.50:764][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.49.50:836][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Aim" FILE="../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset" SILENT=true
+[2024.05.24-19.49.50:842][ 42]LogSavePackage: Moving output files for package: /Game/UI/WB_Aim
+[2024.05.24-19.49.50:843][ 42]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/WB_Aim0F5CA0A347C2A162A254C595A01B10B8.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/UI/WB_Aim.uasset'
+[2024.05.24-19.49.50:850][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.37 sec)
+[2024.05.24-19.49.50:851][ 42]AssetCheck: New page: Asset Save: WB_Aim
+[2024.05.24-19.49.50:851][ 42]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Aim.WB_Aim
+[2024.05.24-19.49.51:840][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.24-19.49.51:847][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.24-19.49.51:847][102]PIE: New page: PIE session: Blockout (25 May 2024, 01:49:51)
+[2024.05.24-19.49.51:847][102]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2024.05.24-19.49.51:849][102]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.05.24-19.49.51:856][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.51:858][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2024.05.24-19.49.51:858][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.001133s)
+[2024.05.24-19.49.51:870][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.24-19.49.51:871][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-19.49.51:872][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-19.49.51:872][103]LogAIModule: Creating AISystem for world Blockout
+[2024.05.24-19.49.51:872][103]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.05.24-19.49.51:872][103]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.24-19.49.51:872][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-19.49.51:872][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-19.49.51:873][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-19.49.51:873][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-19.49.51:873][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-19.49.51:874][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-19.49.51:917][103]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-19.49.51:917][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-19.49.51:917][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-19.49.51:917][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-19.49.51:919][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.24-19.49.51:919][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.24-19.49.51:920][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.24-19.49.51:920][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.24-19.49.51:920][103]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.24-19.49.51:920][103]LogAudio: Display: Audio Device (ID: 7) registered with world 'Blockout'.
+[2024.05.24-19.49.51:920][103]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.24-19.49.51:923][103]LogLoad: Game class is 'BP_BrickGameMode_C'
+[2024.05.24-19.49.51:924][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 60) at 2024.05.24-22.49.51
+[2024.05.24-19.49.51:924][103]LogWorld: Bringing up level for play took: 0.000474
+[2024.05.24-19.49.51:924][103]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.51:924][103]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.05.24-19.49.51:924][103]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.51:925][103]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.24-19.49.51:925][103]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.24-19.49.51:925][103]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.05.24-19.49.51:925][103]PIE: Server logged in
+[2024.05.24-19.49.51:925][103]PIE: Play in editor total start time 0.078 seconds.
+[2024.05.24-19.49.56:393][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.56:394][368]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2024.05.24-19.49.56:394][368]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-19.49.56:394][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.56:397][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-19.49.56:400][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-19.49.56:410][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-19.49.56:410][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.24-19.49.56:410][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.24-19.49.56:412][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.24-19.49.56:420][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.24-19.49.56:469][370]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.05.24-19.50.42:585][487]LogViewport: Scene viewport resized to 1233x500, mode Windowed.
+[2024.05.24-19.50.42:603][488]LogViewport: Scene viewport resized to 1239x500, mode Windowed.
+[2024.05.24-19.50.42:620][489]LogViewport: Scene viewport resized to 1247x500, mode Windowed.
+[2024.05.24-19.50.42:636][490]LogViewport: Scene viewport resized to 1257x500, mode Windowed.
+[2024.05.24-19.50.42:653][491]LogViewport: Scene viewport resized to 1268x500, mode Windowed.
+[2024.05.24-19.50.42:670][492]LogViewport: Scene viewport resized to 1280x500, mode Windowed.
+[2024.05.24-19.50.42:686][493]LogViewport: Scene viewport resized to 1292x500, mode Windowed.
+[2024.05.24-19.50.42:703][494]LogViewport: Scene viewport resized to 1303x500, mode Windowed.
+[2024.05.24-19.50.42:719][495]LogViewport: Scene viewport resized to 1311x500, mode Windowed.
+[2024.05.24-19.50.42:736][496]LogViewport: Scene viewport resized to 1317x500, mode Windowed.
+[2024.05.24-19.50.42:753][497]LogViewport: Scene viewport resized to 1320x500, mode Windowed.
+[2024.05.24-19.50.42:786][499]LogViewport: Scene viewport resized to 1321x500, mode Windowed.
+[2024.05.24-19.50.42:803][500]LogViewport: Scene viewport resized to 1323x500, mode Windowed.
+[2024.05.24-19.50.42:820][501]LogViewport: Scene viewport resized to 1325x500, mode Windowed.
+[2024.05.24-19.50.42:836][502]LogViewport: Scene viewport resized to 1330x500, mode Windowed.
+[2024.05.24-19.50.42:852][503]LogViewport: Scene viewport resized to 1335x500, mode Windowed.
+[2024.05.24-19.50.42:869][504]LogViewport: Scene viewport resized to 1342x500, mode Windowed.
+[2024.05.24-19.50.42:886][505]LogViewport: Scene viewport resized to 1350x500, mode Windowed.
+[2024.05.24-19.50.42:903][506]LogViewport: Scene viewport resized to 1362x500, mode Windowed.
+[2024.05.24-19.50.42:920][507]LogViewport: Scene viewport resized to 1379x500, mode Windowed.
+[2024.05.24-19.50.42:937][508]LogViewport: Scene viewport resized to 1392x500, mode Windowed.
+[2024.05.24-19.50.42:953][509]LogViewport: Scene viewport resized to 1405x500, mode Windowed.
+[2024.05.24-19.50.42:970][510]LogViewport: Scene viewport resized to 1416x500, mode Windowed.
+[2024.05.24-19.50.42:986][511]LogViewport: Scene viewport resized to 1422x500, mode Windowed.
+[2024.05.24-19.50.43:003][512]LogViewport: Scene viewport resized to 1427x500, mode Windowed.
+[2024.05.24-19.50.43:019][513]LogViewport: Scene viewport resized to 1430x500, mode Windowed.
+[2024.05.24-19.50.43:037][514]LogViewport: Scene viewport resized to 1432x500, mode Windowed.
+[2024.05.24-19.50.43:053][515]LogViewport: Scene viewport resized to 1435x500, mode Windowed.
+[2024.05.24-19.50.43:070][516]LogViewport: Scene viewport resized to 1439x500, mode Windowed.
+[2024.05.24-19.50.43:087][517]LogViewport: Scene viewport resized to 1443x500, mode Windowed.
+[2024.05.24-19.50.43:103][518]LogViewport: Scene viewport resized to 1446x500, mode Windowed.
+[2024.05.24-19.50.43:186][523]LogViewport: Scene viewport resized to 1443x500, mode Windowed.
+[2024.05.24-19.50.43:204][524]LogViewport: Scene viewport resized to 1438x500, mode Windowed.
+[2024.05.24-19.50.43:222][525]LogViewport: Scene viewport resized to 1432x500, mode Windowed.
+[2024.05.24-19.50.43:238][526]LogViewport: Scene viewport resized to 1428x500, mode Windowed.
+[2024.05.24-19.50.43:254][527]LogViewport: Scene viewport resized to 1423x500, mode Windowed.
+[2024.05.24-19.50.43:271][528]LogViewport: Scene viewport resized to 1419x500, mode Windowed.
+[2024.05.24-19.50.43:288][529]LogViewport: Scene viewport resized to 1417x500, mode Windowed.
+[2024.05.24-19.50.43:304][530]LogViewport: Scene viewport resized to 1416x500, mode Windowed.
+[2024.05.24-19.50.43:336][532]LogViewport: Scene viewport resized to 1415x500, mode Windowed.
+[2024.05.24-19.50.43:386][535]LogViewport: Scene viewport resized to 1414x500, mode Windowed.
+[2024.05.24-19.50.43:404][536]LogViewport: Scene viewport resized to 1413x500, mode Windowed.
+[2024.05.24-19.50.43:452][539]LogViewport: Scene viewport resized to 1411x500, mode Windowed.
+[2024.05.24-19.50.43:485][541]LogViewport: Scene viewport resized to 1409x500, mode Windowed.
+[2024.05.24-19.50.43:535][544]LogViewport: Scene viewport resized to 1408x500, mode Windowed.
+[2024.05.24-19.50.43:554][545]LogViewport: Scene viewport resized to 1404x500, mode Windowed.
+[2024.05.24-19.50.43:569][546]LogViewport: Scene viewport resized to 1401x500, mode Windowed.
+[2024.05.24-19.50.43:588][547]LogViewport: Scene viewport resized to 1395x500, mode Windowed.
+[2024.05.24-19.50.43:604][548]LogViewport: Scene viewport resized to 1390x500, mode Windowed.
+[2024.05.24-19.50.43:622][549]LogViewport: Scene viewport resized to 1384x500, mode Windowed.
+[2024.05.24-19.50.43:638][550]LogViewport: Scene viewport resized to 1379x500, mode Windowed.
+[2024.05.24-19.50.43:655][551]LogViewport: Scene viewport resized to 1376x500, mode Windowed.
+[2024.05.24-19.50.43:672][552]LogViewport: Scene viewport resized to 1373x500, mode Windowed.
+[2024.05.24-19.50.43:688][553]LogViewport: Scene viewport resized to 1372x500, mode Windowed.
+[2024.05.24-19.52.08:742][420]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.24-19.52.08:742][420]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.24-19.52.27:196][449]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.24-19.56.49:730][237]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.24-19.56.49:731][237]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.05.24-19.57.03:221][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.57.03:299][495]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.57.03:300][495]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacterD4C6C9ED4C7C2C8304D8DE87AF476827.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.57.03:313][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.47 sec)
+[2024.05.24-19.57.03:315][495]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.57.03:315][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.57.03:372][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.57.03:448][499]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.57.03:449][499]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacter7EE909F648481DF843E83FA93F755E62.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.57.03:454][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.55 sec)
+[2024.05.24-19.57.03:455][499]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.57.03:455][499]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.57.07:068][713]BlueprintLog: New page: Compile BP_BrickCharacter
+[2024.05.24-19.57.07:138][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.24-19.57.07:719][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-19.57.07:797][740]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-19.57.07:798][740]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacter99E5304647F6A1EE192FA4A96FF05093.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-19.57.07:808][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.64 sec)
+[2024.05.24-19.57.07:809][740]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-19.57.07:809][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-19.57.28:065][756]BlueprintLog: New page: Compile BP_BrickGameMode
+[2024.05.24-19.57.28:093][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.24-19.58.07:320][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.24-19.58.07:321][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Blockout' took 0.013
+[2024.05.24-19.58.07:324][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BrickPlayerController] ([2] browsable assets)...
+[2024.05.24-19.58.07:324][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BrickPlayerController]
+[2024.05.24-19.58.07:332][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_BrickPlayerController_Auto1
+[2024.05.24-19.58.07:332][751]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController_Auto1688E58864A819281206F16A3D45E897F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/Autosaves/Game/Blueprints/BP_BrickPlayerController_Auto1.uasset'
+[2024.05.24-19.58.07:333][751]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.05.24-19.58.58:159][ 46]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.24-20.00.24:327][501]LogBlueprint: Warning: [AssetLog] C:\Users\victo\OneDrive - UNIVERSIDAD DE HUELVA\V\UnrealProjects\IdaViruJam\BrickFree\Content\Blueprints\BP_BrickPlayerController.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2024.05.24-20.00.30:403][852]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.00.30:427][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.24-20.00.31:165][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.00.31:238][894]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.00.31:240][894]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerE0B2074E4130C4846A75448C996EE9C8.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.00.31:246][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.72 sec)
+[2024.05.24-20.00.31:248][894]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.00.31:248][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.00.55:811][176]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.00.55:836][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.24-20.00.56:289][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.00.56:365][202]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.00.56:366][202]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerFB31B0AE481F28A2C1234FA5CBACDC3F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.00.56:372][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.80 sec)
+[2024.05.24-20.00.56:374][202]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.00.56:374][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.01.06:705][813]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.01.06:722][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.24-20.01.07:140][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.01.07:212][837]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.01.07:213][837]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerB61E46844FEA6D6221B0ED985AB40225.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.01.07:219][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 3.88 sec)
+[2024.05.24-20.01.07:221][837]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.01.07:221][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.01.15:218][311]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.01.15:237][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.24-20.01.15:960][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.01.16:039][352]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.01.16:041][352]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController8BCAF47C42E37E23219B54AC46FBB36F.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.01.16:049][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.97 sec)
+[2024.05.24-20.01.16:050][352]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.01.16:050][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.01.21:761][693]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.01.21:786][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.24-20.01.22:139][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.01.22:213][713]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.01.22:214][713]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController7A6D15C943EF4C5D7041D4963E15306E.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.01.22:221][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.05 sec)
+[2024.05.24-20.01.22:223][713]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.01.22:223][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.01.25:503][907]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-20.01.25:503][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-20.01.25:511][907]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-20.01.25:511][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-20.02.02:440][335]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.02.02:457][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.24-20.02.02:835][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.02.02:914][357]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.02.02:916][357]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController13E7585D4A2FBFA6C13575B7C208B1E5.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.02.02:922][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 4.14 sec)
+[2024.05.24-20.02.02:923][357]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.02.02:923][357]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.02.05:160][492]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.02.05:180][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.24-20.02.05:716][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.02.05:795][523]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.02.05:796][523]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerControllerB0B9B5BA4A231A71DF3611A47F25E517.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.02.05:802][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 4.23 sec)
+[2024.05.24-20.02.05:804][523]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.02.05:804][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
+[2024.05.24-20.03.10:481][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.03.10:559][711]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickCharacter
+[2024.05.24-20.03.10:561][711]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickCharacter32E9511744544DF7A9E0FC84A77514FC.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickCharacter.uasset'
+[2024.05.24-20.03.10:569][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.31 sec)
+[2024.05.24-20.03.10:571][711]AssetCheck: New page: Asset Save: BP_BrickCharacter
+[2024.05.24-20.03.10:571][711]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickCharacter.BP_BrickCharacter
+[2024.05.24-20.04.01:556][705]BlueprintLog: New page: Compile BP_BrickPlayerController
+[2024.05.24-20.04.01:584][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.24-20.04.02:277][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-20.04.02:360][743]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_BrickPlayerController
+[2024.05.24-20.04.02:361][743]LogSavePackage: Moving '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Saved/BP_BrickPlayerController89ACF6F54E13E74230C78B8DDB418075.tmp' to '../../../../../../Users/victo/OneDrive - UNIVERSIDAD DE HUELVA/V/UnrealProjects/IdaViruJam/BrickFree/Content/Blueprints/BP_BrickPlayerController.uasset'
+[2024.05.24-20.04.02:369][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.41 sec)
+[2024.05.24-20.04.02:371][743]AssetCheck: New page: Asset Save: BP_BrickPlayerController
+[2024.05.24-20.04.02:371][743]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_BrickPlayerController.BP_BrickPlayerController
